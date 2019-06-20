@@ -1,4 +1,4 @@
-package com.api.karatedemo.karatedemo;
+package com.api.karatedemo;
 
 /**
  * Hello world!

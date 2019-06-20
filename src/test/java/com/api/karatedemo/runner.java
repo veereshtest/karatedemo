@@ -1,4 +1,4 @@
-package com.api.karatedemo.karatedemo;
+package com.api.karatedemo;
 
 import org.junit.runner.RunWith;
 import com.intuit.karate.junit4.Karate;
