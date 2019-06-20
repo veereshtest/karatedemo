@@ -23,7 +23,7 @@ And match response.data[*].last_name contains <name>
 
 Examples:
 |page|name|
-|1|'Morris'|
+|1|'Bluth'|
 |2|'Holt'|
 
 
